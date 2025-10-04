@@ -120,4 +120,4 @@ const UserSlice = createSlice({
   },
 });
 
-export default UserSlice.reducer;
+export default UserSlice.reducer; 
